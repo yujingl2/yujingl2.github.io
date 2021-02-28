@@ -1,2 +1,2 @@
 # IS445
-## Yujing L
+## Yujing Liu
